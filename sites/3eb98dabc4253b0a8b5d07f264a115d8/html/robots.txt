@@ -1,3 +1,0 @@
-Sitemap:https://3eb98dabc4253b0a8b5d07f264a115d8.duktix.com/sitemap.xml
-User-agent:*
-Disallow:
