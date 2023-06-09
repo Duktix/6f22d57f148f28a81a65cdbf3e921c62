@@ -115,12 +115,13 @@ body{
 
 	.menu-custom .menu-mobile .menu-nav li a:not(.button){
 		background-color:#000000;
-		color:#161313;
-		
+		color:#333333;
+		font-size:3px;
 	}
 
 	.menu-custom .menu-mobile .menu-nav li a:not(.button):hover{
-					}
+						color:#333333;
+			}
 
 		.spacer.height-20{
 		min-height: 20px;
